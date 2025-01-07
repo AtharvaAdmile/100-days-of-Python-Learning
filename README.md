@@ -44,7 +44,7 @@ Each day, I will:
 
 ## 🔗 Connect with Me
 - [Twitter](https://x.com/atharva_admile) 
-- [LinkedIn](www.linkedin.com/in/atharvaadmile261) 
+- [LinkedIn](https://www.linkedin.com/in/atharvaadmile261/) 
 
 ---
 
