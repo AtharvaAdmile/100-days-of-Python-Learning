@@ -5,14 +5,14 @@
 1. If Condition :
 In python and other programming languages the key word if is used to check if a condition is true and to execute the block code. Remember the indentation after the colon.
 
-# Syntax
+-->Syntax
 if condition:
     this part of code runs for truthy conditions
 
 2. If Else : 
 If condition is true the first block will be executed, if not the else condition will run.
 
-# Syntax
+-->Syntax
 if condition:
     this part of code runs for truthy conditions
 else:
@@ -21,7 +21,7 @@ else:
 3. If Elif Else :
 In our daily life, we make decisions on daily basis. We make decisions not by checking one or two conditions but multiple conditions. As similar to life, programming is also full of conditions. We use elif when we have multiple conditions.
 
-# Syntax
+-->Syntax
 if condition:
     code
 elif condition:
@@ -32,7 +32,7 @@ else:
 4. Nested Conditions :
 Conditions can be nested
 
-# syntax
+-->Syntax
 if condition:
     code
     if condition:
@@ -40,12 +40,12 @@ if condition:
 
 5. If Condition and Logical Operators
 
-# Syntax
+-->Syntax
 if condition and condition:
     code
 
 6. if and Or Logical Operators
-# Syntax
+-->Syntax
 if condition or condition:
     code
 
